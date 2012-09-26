@@ -63,3 +63,7 @@ Show up the PHP version, memory limit and current memory usage in the dashboard 
 **Advanced Custom Fields**  
 [http://wordpress.org/extend/plugins/advanced-custom-fields/screenshots/](http://wordpress.org/extend/plugins/advanced-custom-fields/screenshots/)  
 Fully customise WordPress edit screens with powerful fields. Boasting a professional interface and a powerfull API, it’s a must have for any web dev
+
+**WordPress to Buffer**  
+[http://wordpress.org/extend/plugins/post-to-buffer/](http://wordpress.org/extend/plugins/post-to-buffer/)  
+Publish your posts to Twitter, Facebook and LinkedIn via your Buffer account.
