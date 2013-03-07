@@ -61,9 +61,25 @@ Just another contact form plugin. Simple but flexible.
 Show up the PHP version, memory limit and current memory usage in the dashboard and admin footer
 
 **Advanced Custom Fields**  
-[http://wordpress.org/extend/plugins/advanced-custom-fields/screenshots/](http://wordpress.org/extend/plugins/advanced-custom-fields/screenshots/)  
+[http://wordpress.org/extend/plugins/advanced-custom-fields/](http://wordpress.org/extend/plugins/advanced-custom-fields/)  
 Fully customise WordPress edit screens with powerful fields. Boasting a professional interface and a powerfull API, it’s a must have for any web dev
+
+**Custom Post Type UI**  
+[http://wordpress.org/extend/plugins/custom-post-type-ui/](http://wordpress.org/extend/plugins/custom-post-type-ui/)  
+Admin UI for creating custom post types and custom taxonomies in WordPress
 
 **WordPress to Buffer**  
 [http://wordpress.org/extend/plugins/post-to-buffer/](http://wordpress.org/extend/plugins/post-to-buffer/)  
 Publish your posts to Twitter, Facebook and LinkedIn via your Buffer account.
+
+**WP Smush.it**  
+[http://wordpress.org/extend/plugins/wp-smushit/](http://wordpress.org/extend/plugins/wp-smushit/)  
+Reduce image file sizes and improve performance using the Smush.it API within WordPress.
+
+**WP-DBManager**  
+[http://wordpress.org/extend/plugins/wp-dbmanager/](http://wordpress.org/extend/plugins/wp-dbmanager/)  
+Manages your WordPress database.
+
+**Revision Control**  
+[http://wordpress.org/extend/plugins/revision-control/](http://wordpress.org/extend/plugins/revision-control/)  
+Revision Control allows finer control over the Post Revision system included with WordPress
