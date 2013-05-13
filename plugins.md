@@ -83,3 +83,11 @@ Manages your WordPress database.
 **Revision Control**  
 [http://wordpress.org/extend/plugins/revision-control/](http://wordpress.org/extend/plugins/revision-control/)  
 Revision Control allows finer control over the Post Revision system included with WordPress
+
+**Better WP Security**  
+[http://wordpress.org/extend/plugins/better-wp-security/](http://wordpress.org/extend/plugins/better-wp-security/)  
+The easiest, most effective way to secure WordPress. Improve the security of any WordPress site in seconds.
+
+**Visual Composer for WordPress (from Themeforest)**  
+[http://codecanyon.net/item/visual-composer-for-wordpress/242431](http://codecanyon.net/item/visual-composer-for-wordpress/242431)  
+Visual Composer for WordPress will save you tons of time working on the site content. Now you’ll be able to create complex layouts within minutes! It’s build on top of the modern technologies – get the best for your lovely website!
